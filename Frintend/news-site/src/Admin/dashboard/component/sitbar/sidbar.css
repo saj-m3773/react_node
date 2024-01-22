@@ -1,0 +1,35 @@
+.sidebar{
+    padding: 50px 0 0 0;
+    background: rgb(252,252,252);
+    width: 300px;
+    max-width: 300px;
+    height: 100vh;
+}
+
+.sidebar ul{
+    padding: 0 15px;
+}
+
+.sidebar ul li {
+    margin: 10px 0;
+    padding: 10px 5px;
+    border-bottom: 1px solid rgb(0, 72, 255);
+    border-radius: 3px;
+}
+
+.sidebar ul li span{
+    color: #078fee;
+}
+
+.sidebar ul li:hover{
+ background: darkgray;
+}
+@media  screen and (max-width:1400px) {
+    .sidebar{
+        width: 200px;
+    }
+    .sidebar .logo img{
+        width:60px
+    }
+}
+

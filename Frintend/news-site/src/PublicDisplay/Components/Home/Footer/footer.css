@@ -1,0 +1,34 @@
+footer{
+     background: rgb(5,17,26);
+}
+
+footer a{
+     color: whitesmoke;
+}
+
+footer h1, footer p{
+     color: whitesmoke;
+}
+
+.post-footer img{
+     width: 90px;
+     height: 80px;
+     object-fit: cover;
+     border-radius: 10px;
+     -webkit-border-radius: 10px;
+     -moz-border-radius: 10px;
+     -ms-border-radius: 10px;
+     -o-border-radius: 10px;
+}
+.footer-span{
+     color: rgb(2, 102, 175);
+}
+
+.post-footer .post-footer-name{
+     font-size: 12px;
+     color: rgb(170,170,170);
+}
+#footer_R p{
+
+     color: rgb(150,150,150);
+}
